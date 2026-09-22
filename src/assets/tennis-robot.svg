@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="560" viewBox="0 0 720 560">
+<rect width="720" height="560" fill="#dae2c4"/><rect x="91" y="61" width="538" height="438" rx="5" fill="#cbd8ac"/>
+<g fill="none" stroke="#f2f4e6" stroke-width="3"><path d="M111 81h498v398H111zM156 81v398M564 81v398M111 280h498M156 173h408M156 387h408M360 173v214"/></g>
+<path d="M253 412V332q0-80 89-80h106" fill="none" stroke="#859866" stroke-width="3" stroke-dasharray="7 8"/>
+<g fill="#e8ed8f" stroke="#91a25b" stroke-width="1.5"><circle cx="468" cy="252" r="12"/><circle cx="218" cy="157" r="11"/><circle cx="510" cy="410" r="11"/></g>
+<path d="m353 252 139-85v170Z" fill="#a8bd7f" opacity=".27"/>
+<g transform="translate(349 251) rotate(-90)"><rect x="-51" y="-46" width="19" height="51" rx="5" fill="#253c2b"/><rect x="32" y="-46" width="19" height="51" rx="5" fill="#253c2b"/><rect x="-39" y="-62" width="78" height="112" rx="16" fill="#f4f4e9" stroke="#8da573" stroke-width="2"/><rect x="-24" y="-47" width="48" height="57" rx="9" fill="#31513a"/><circle cx="0" cy="-15" r="10" fill="#a2ba7d"/><path d="M-47 37h94l-8 19h-78Z" fill="#6e8956"/><path d="M-30 42v11m15-11v11m15-11v11m15-11v11m15-11v11" stroke="#c8d4af" stroke-width="2"/></g>
+<rect x="103" y="443" width="179" height="25" rx="4" fill="#f4f4e9"/><text x="117" y="460" fill="#536e45" font-family="monospace" font-size="10" letter-spacing="1">CONCEPT / IN PROGRESS</text>
+</svg>

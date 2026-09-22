@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="560" viewBox="0 0 720 560"><defs><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="#afb99f" opacity=".55"/></pattern></defs>
+<rect width="720" height="560" fill="url(#grid)"/>
+<g fill="none" stroke="#9aaa91" stroke-width="1.5"><path d="M360 167v221M219 253h282"/><circle cx="360" cy="253" r="5" fill="#e1e3de"/></g>
+<rect x="138" y="62" width="445" height="129" rx="9" fill="#2c3c2f"/><path d="M138 90h445" stroke="#526149"/><g fill="#879d72"><circle cx="157" cy="77" r="4"/><circle cx="171" cy="77" r="4"/><circle cx="185" cy="77" r="4"/></g><text x="162" y="124" font-family="monospace" font-size="16" fill="#dce79a">$ explore --below-the-surface</text><text x="162" y="158" font-family="monospace" font-size="12" fill="#b4c7a0">shell / threads / processes</text>
+<rect x="94" y="243" width="220" height="106" rx="8" fill="#f6f5ef" stroke="#9aaa91"/><text x="116" y="273" font-family="monospace" font-size="10" letter-spacing="2" fill="#5d7450">EXECUTION</text><text font-family="Arial,sans-serif" font-size="24" fill="#314e3a">
+  <tspan x="116" y="301">Threads &amp;</tspan>
+  <tspan x="116" y="329">processes</tspan>
+</text>
+<rect x="407" y="243" width="220" height="106" rx="8" fill="#f6f5ef" stroke="#9aaa91"/><text x="430" y="273" font-family="monospace" font-size="10" letter-spacing="2" fill="#5d7450">PERSISTENCE</text><text x="430" y="313" font-family="Arial,sans-serif" font-size="24" fill="#314e3a">KTFS filesystem</text>
+<rect x="200" y="405" width="320" height="87" rx="8" fill="#cdd9bc" stroke="#91a47e"/><text x="360" y="443" text-anchor="middle" font-family="Arial,sans-serif" font-size="25" fill="#314e3a">RISC-V</text><text x="360" y="471" text-anchor="middle" font-family="monospace" font-size="10" letter-spacing="3" fill="#5d7450">THE HARDWARE FOUNDATION</text>
+</svg>

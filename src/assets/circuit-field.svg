@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+<defs><pattern id="dots" width="35" height="35" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#839467" opacity=".23"/></pattern></defs><rect width="1600" height="1000" fill="#263b2e"/><rect width="1600" height="1000" fill="url(#dots)"/>
+<g fill="none" stroke="#60744f" opacity=".32"><circle cx="1410" cy="620" r="360"/><circle cx="1410" cy="620" r="250"/><circle cx="1410" cy="620" r="140"/><path d="M850 0v260h235v180h515M1040 1000V760h120V310h440M0 830h520v-90h295"/></g>
+</svg>

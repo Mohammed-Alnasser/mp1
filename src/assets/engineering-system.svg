@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="580" viewBox="0 0 640 580"><defs><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="#afb99f" opacity=".55"/></pattern></defs>
+<rect width="640" height="580" fill="url(#grid)"/>
+<circle cx="326" cy="291" r="218" fill="#e7ebdc"/>
+<circle cx="326" cy="291" r="188" fill="none" stroke="#aab89a" stroke-dasharray="3 8"/>
+<g fill="none" stroke="#758d66" stroke-width="1.5"><path d="M100 145h97v75h87M147 417h63v-85h104M420 141v87h84v105M356 364v95h126"/><circle cx="100" cy="145" r="5" fill="#f6f5ef"/><circle cx="147" cy="417" r="5" fill="#f6f5ef"/><circle cx="482" cy="459" r="5" fill="#f6f5ef"/><circle cx="420" cy="141" r="5" fill="#f6f5ef"/></g>
+<g transform="translate(121 103) rotate(-13)"><rect x="0" y="0" width="123" height="83" rx="10" fill="#f6f5ef" stroke="#839478" stroke-width="1.5"/><circle cx="65" cy="42" r="27" fill="#dce4cd" stroke="#627858"/><circle cx="65" cy="42" r="16" fill="#38563c"/><circle cx="65" cy="42" r="7" fill="#a9bc8c"/><rect x="14" y="13" width="21" height="8" rx="3" fill="#9bac8b"/></g>
+<g transform="translate(265 222) rotate(-12)"><rect x="-16" y="-16" width="183" height="183" rx="12" fill="#d4ddc7" stroke="#879c73"/><g stroke="#718665" stroke-width="3"><path d="M9-16v-16m23 16v-16m23 16v-16m23 16v-16m23 16v-16m23 16v-16M9 167v16m23-16v16m23-16v16m23-16v16m23-16v16m23-16v16M-16 9h-16m16 23h-16m16 23h-16m16 23h-16m16 23h-16m16 23h-16M167 9h16m-16 23h16m-16 23h16m-16 23h16m-16 23h16m-16 23h16"/></g><rect width="150" height="150" rx="6" fill="#314e3a"/><rect x="12" y="12" width="126" height="126" rx="2" fill="none" stroke="#617952"/><text x="75" y="75" text-anchor="middle" fill="#e4eacb" font-family="Arial,sans-serif" font-size="35" letter-spacing="-2">ma.</text><text x="75" y="106" text-anchor="middle" fill="#b0c096" font-family="monospace" font-size="9" letter-spacing="2">BUILD / LEARN</text></g>
+<circle cx="482" cy="396" r="79" fill="#dce68c" stroke="#96a75b" stroke-width="1.5"/>
+<g fill="none" stroke="#fafced" stroke-width="5"><path d="M428 339c58 15 78 58 58 136"/><path d="M555 366c-42 16-64 65-58 107"/></g>
+<circle cx="150" cy="354" r="28" fill="#dfe6d0" stroke="#94a77f"/>
+<path d="m140 354 7 7 15-15" fill="none" stroke="#61794e" stroke-width="2"/>
+<g fill="#657759" font-family="monospace" font-size="9" letter-spacing="1.6"><text x="82" y="479">PERCEPTION</text><text x="449" y="219">INTELLIGENCE</text><text x="282" y="526">ACTION</text></g>
+</svg>
